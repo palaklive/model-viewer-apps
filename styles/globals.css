@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.model-viewer {
+  width: 100vw;
+  height: 80vh;
+}
